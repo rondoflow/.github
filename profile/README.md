@@ -3,6 +3,11 @@
 # RondoFlow
 
 ### Visual orchestration for Claude Code agents
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+![Node.js](https://img.shields.io/badge/node-20%2B-green.svg)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue.svg)
+![Status](https://img.shields.io/badge/status-1.0.0-orange.svg)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
 <img width="980" alt="RondoFlow visual orchestration canvas - drag Claude Code agents onto a board, wire them into a multi-agent workflow, and run it locally with a live node graph" src="https://github.com/user-attachments/assets/6e5c4a40-99ce-49ee-9c24-3c2b9cdabdc6" />
 
